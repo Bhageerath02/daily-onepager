@@ -1,4 +1,7 @@
 name: Daily One-Pager
+permissions:
+  contents: write
+
 
 on:
   schedule:
